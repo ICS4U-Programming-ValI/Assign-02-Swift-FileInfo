@@ -1,0 +1,5 @@
+42
+A
+Hello, World!
+3.14159
+true

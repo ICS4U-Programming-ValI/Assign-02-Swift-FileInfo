@@ -1,0 +1,10 @@
+123
+B
+Goodbye, World!
+2.71828
+false
+99
+Z
+Programming is fun!
+1.41421
+true

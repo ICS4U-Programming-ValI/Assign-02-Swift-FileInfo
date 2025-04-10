@@ -1,0 +1,25 @@
+7
+X
+Learning Java and Swift!
+3.33333
+true
+256
+Y
+Coding is awesome!
+0.57721
+false
+512
+W
+Debugging is fun!
+1.61803
+true
+1024
+V
+Keep practicing!
+2.23606
+false
+2048
+U
+Never give up!
+3.14159
+true
